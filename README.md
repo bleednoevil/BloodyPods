@@ -47,3 +47,7 @@ ASCII art created using Christopher Johnson’s ASCII Art Collection: asciiart.w
 Connect with me at www.linkedin.com/in/raycervantes
 
 Contact me at nobloodyregrets@gmail.com
+
+
+## Tags
+airbleed covert signals bluetooth research poc simulator art education security ethics
